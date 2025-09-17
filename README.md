@@ -1,6 +1,6 @@
 # Cross-PPepI-DL
 
-This is the github repositry for the _Briefings in Bioinformatics_ paper **Enhancing Cross Domain Protein and Peptide Interaction with Re trained Deep Learning Models**
+This is the github repositry for the **_Briefings in Bioinformatics_** paper **Enhancing Cross Domain Protein and Peptide Interaction with Re trained Deep Learning Models**
 
 ### Authors: Xin Cao, Jingquan Li, Fanpeng Meng, Bing Yang*, Yanyan Zou*
 
